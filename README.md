@@ -48,7 +48,7 @@ pgm@hoy5 ACQ164]$ tree -pd -L 2
 
 ### First check settings
 
-'''
+```
 cat setup.env
 export EPICS_HOME=${HOME}/PROJECTS/ACQ164
 export EPICS_BASE=${EPICS_HOME}/base
